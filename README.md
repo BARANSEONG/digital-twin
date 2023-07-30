@@ -1,6 +1,5 @@
 
-# These are a cloud-based digital twin(on a browser) what i did
-
+# The following are Saas digital twin platforms I built
 ## 1.3D visualization on the web
 
 <img width="1722" alt="스크린샷 2023-07-19 오후 3 46 37" src="https://github.com/BARANSEONG/digital-twin/assets/139976591/8135fd8d-72eb-4a4a-93a3-1f6d71bcfaf1">
